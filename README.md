@@ -1,2 +1,2 @@
 # sudoku-solution
-Solution for any sudoku-puzzle
+Sudoku solution using back-tracking
